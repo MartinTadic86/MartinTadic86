@@ -2,7 +2,7 @@
 - 👀 I’m interested in custom keyboards
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kc9046663@gmail.com
 
 <!---
 MartinTadic86/MartinTadic86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
