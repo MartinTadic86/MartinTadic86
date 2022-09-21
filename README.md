@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinTadic86
 - 👀 I’m interested in custom keyboards
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kc9046663@gmail.com
 
